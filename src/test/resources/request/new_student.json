@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "firstName": "new fname",
+  "lastName": "new lname",
+  "email": "email3@gmail.com",
+  "phone": "101",
+  "birthDate": "2002-12-29",
+  "reportCard": 23625,
+  "course": 1,
+  "entryDate": "2020-01-01",
+  "studentGroup": {
+    "id": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "chairName": "new chair",
+  "faculty": {
+    "id": 1
+  }
+}

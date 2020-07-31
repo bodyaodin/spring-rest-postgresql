@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "examDate": "2020-01-01",
+  "semester": 1,
+  "student": {
+    "id": 1
+  },
+  "subject": {
+    "id": 1
+  },
+  "grade": 3
+}
